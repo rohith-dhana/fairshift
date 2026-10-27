@@ -1,0 +1,8 @@
+{
+  "name": "FairShift - Decent Work Platform for SDG 8",
+  "description": "FairShift empowers shift-based workers and frontline employers in healthcare and campus operations with transparent shift tracking, multilingual AI payslip explanations, voice safety reporting, and proactive fatigue protection aligned with UN SDG 8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
